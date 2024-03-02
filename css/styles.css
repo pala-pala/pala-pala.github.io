@@ -1,0 +1,249 @@
+
+
+
+
+body {                                                                                            
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 100;
+    margin:10px;
+    padding:4;
+
+     }
+
+::selection {
+color: black; 
+    background: #D682B0;
+             
+}
+
+
+a.navo:link {color: #FA7E9C;
+               text-decoration: none;
+}
+ a.navo:visited {color: #CC6386;
+	    text-decoration: line-through;}
+
+ a.navo:hover {color: #31998E;
+	           text-decoration: none;}
+ 
+ a.navo:active {color: #D44848 ;
+                 text-decoration: none;}
+
+ .black p {
+    background-color: black;
+    color: white;
+    font-size: 15 px;
+    margin: 5;
+    padding: 4;
+}
+
+ .projects{
+     padding-left: 10px; 
+     font-size: '25 px';
+         font-style: 'normal';
+         font-weight: '800';
+         	   font-family: 'Helvetica';
+ }
+ 
+ .padme{
+       padding-left: 100px; 
+
+ }
+
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+div {
+    width: 100%
+	      display: none;
+  resize: both;
+
+}
+
+.column div {
+    column-gap: 20px;
+    column-rule-width: 1px;
+			   column-count: 2;
+}
+
+.row {
+  display: flex;
+}
+
+.column_left {
+    flex: 30%;
+
+}
+
+.column_right {
+    flex: 70%;
+     width: 100%;
+}
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.c {
+  text-align: justify;
+}
+
+
+/* The fix for auto-resizing was to add 100% to width */
+
+h1 { font-family: 'Helvetica';
+     font-size: 24px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 1000;
+     line-height: 26.4px; }
+
+h2 { font-family: Helvetica, Arial, Sans serif;         
+     font-size: 18px;                                                                            
+     font-style: normal;                                                                                    
+     font-variant: normal;                                                                                      
+     font-weight: 400;                                                                                          
+  
+
+   }  
+
+h3 { font-family: Helvetica, Arial, monosopace;
+     font-size: 14px;
+     font-weight: 1000;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 400;
+     }
+
+img {
+  	max-width: 100%;
+  	height: auto;
+}
+.flow-img {
+
+ float: right; 
+      margin: 5px; 
+}
+
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+            
+.wrapper a:link {color: #E2AFCB;}
+.wrapper a:visited {color:  #C2A1BD;
+	    text-decoration: line-through;}
+
+.wrapper a:hover {color:#31998E;
+	  text-decoration: underline;}
+.wrapper a:active {color: #C44F86;}
+
+.shadow	{ background-color: black;
+	  color: white;
+	  line-height: 1.5;}
+
+.highlighter { background-color: #E6A6C5;;
+	  color: black;
+	  line-height: 1.5;}
+
+
+.censor { color:white;
+	  text-decoration: line-through;
+	  font-size: 15px;
+	  color: white;}
+
+.text {
+    color: #FE8AB6;
+
+}
+.trans 	{text-align: end;
+	 display:block;
+	 background-color: black;
+	 color: white; }
+
+
+/* Vertical linking */
+
+
+.wrapper { background-color: black;
+	   font-family: Lucida Sans Typewriter;
+	   color: white;
+	; 
+	 }
+
+p { font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+ 
+   
+  }
+ 
+blockquote { font-family: Arial, Helvetica, sans-serif;
+	     font-size: 10px;
+	     font-style: normal;
+	     font-variant: normal;
+	  line-height: 2.5;
+
+           }
+blockquote a { font-family: Arial, Helvetica, sans-serif;
+	     font-size: 10px;
+	     font-style: normal;
+	     font-variant: normal;
+             }
+
+
+
+pre {font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+     font-size: 13px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 400;
+     line-height: 18.5667px; }
+
+.img-wrapper {
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+}
+
+
+.img-row {
+
+	display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    top-margin: 10px;
+}
+.img-row img:not(:last-of-type) {
+	margin-right: 20px;
+}
+
+.flex-wrapper {
+    display: space-between;
+}
