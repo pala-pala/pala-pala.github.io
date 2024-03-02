@@ -1,8 +1,8 @@
-# Sovereign Subjects
-This site is a kind of scratchpad for linking fieldwork and ongoing research projects with my university teaching. It has three primary dimensions:
+# Palapala
+**"Document, as in a computer program; to transcribe; written."**
 
-1. A broad application of indigenous politics around concept of visual sovereignty and contemporary political events.
+1. Palapala as a creative dimension for indigenous politics and audio-visual sovereignty.
 
-2. The application of visual and open-source tools to everyday forms of empowerment.
+2. Palapala as aesthetic and open-ended avenues to everyday forms of empowerment.
 
-3. Snippets/class examples for student projects. 
+3. Palapala as an emphemeral space in undetermined futures. 
