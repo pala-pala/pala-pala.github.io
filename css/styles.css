@@ -32,13 +32,13 @@ color: black;
 }
 
 
-a.navo:link {color: #FA7E9C;
+a.navo:link {color: #31998E;
                text-decoration: none;
 }
  a.navo:visited {color: #CC6386;
 	    text-decoration: line-through;}
 
- a.navo:hover {color: #31998E;
+ a.navo:hover {color: #FA7E9C;
 	           text-decoration: none;}
  
  a.navo:active {color: #D44848 ;
@@ -170,16 +170,16 @@ img {
 .wrapper a:visited {color:  #C2A1BD;
 	    text-decoration: line-through;}
 
-.wrapper a:hover {color:#31998E;
+.wrapper a:active {color:#31998E;
 	  text-decoration: underline;}
-.wrapper a:active {color: #C44F86;}
+.wrapper a:hover {color: #C44F86;}
 
 .shadow	{ background-color: black;
 	  color: white;
 	  line-height: 1.5;}
 
-.highlighter { background-color: #FFECF4;
-	  color: black;
+.highlighter { background-color: #DAFFF2;
+	  color: #000000;
 	  line-height: 1.5;}
 
 
