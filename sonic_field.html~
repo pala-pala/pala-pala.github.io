@@ -5,9 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!--This page replaces the visual polis, maybe as Polis: text polis, visual polis -->
-<!--On emacs, 1) httpd-start, 2)impatient mode, 3)localhost:8080/imp-->
-	<title>Subjects</title>
+	<title>SONIC FIELD</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="css/styles.css">
@@ -29,7 +27,8 @@
 	
 <body>
 
-    <h2>Knowledge builds power in the rethinking of how language (or discourse) works to encapsulate, even compose, subjects. The observation ranges from <text style="color:#208F99;">Michel Foucault's</text> use of the term genealogy to <text style="color:#208F99;">Julia Kristeva</text> and <text style="color:#208F99;">Roland Barthes'</text> emphasis on breaking the conventions of language by re-reading the world of voices (see <em>geno-text'/'geno-song'</em>). A subject is a body and a thematic composition rooted in the language of the past (the archive) and the discontinuous organization of voices. 
+    <h2>
+	Knowledge builds power in the rethinking of how language (or discourse) works to encapsulate, even compose, subjects. The observation ranges from <text style="color:#208F99;">Michel Foucault's</text> use of the term genealogy to <text style="color:#208F99;">Julia Kristeva</text> and <text style="color:#208F99;">Roland Barthes'</text> emphasis on breaking the conventions of language by re-reading the world of voices (see <em>geno-text'/'geno-song'</em>). A subject is a body and a thematic composition rooted in the language of the past (the archive) and the discontinuous organization of voices. 
 
 Marie Alohalani Brown, masterfully recovers voices of the past in the cataloguing of kanaka maoli narratives of Moʻo Akua--reptile water deities that pointed to larger moʻolelo (narrative historical structures) that fold the kanaka maoli pasts into the present. Her analysis draws heavily on native epistemological structures of organization known as <i>helu</i>:<br><br>
 

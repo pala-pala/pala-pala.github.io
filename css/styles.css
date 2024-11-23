@@ -32,7 +32,7 @@ color: black;
 }
 
 
-a.navo:link {color: #31998E;
+a.navo:link {color: #155F66;
                text-decoration: none;
 }
  a.navo:visited {color: #CC6386;
@@ -178,8 +178,8 @@ img {
 	  color: white;
 	  line-height: 1.5;}
 
-.highlighter { background-color: #DAFFF2;
-	  color: #000000;
+.highlighter { background-color: #155F66;
+	  color: #FFFFFF;
 	  line-height: 1.5;}
 
 
