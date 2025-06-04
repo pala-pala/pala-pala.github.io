@@ -13,10 +13,10 @@ selector {
   color: #C29B01;
 }
 .sov-yellow {
-    color: #FFCC00;
+    color: #FFFFFF;
 }
 
-.sov-yellow2 {
+figcaption {
     color: #C29B01;
 }
 
@@ -124,7 +124,7 @@ h2 { font-family: Helvetica, Arial, Sans serif;
      font-style: normal;                                                                                    
      font-variant: normal;                                                                                      
      font-weight: 400;                                                                                          
-  
+     color: #000000;
 
    }  
 
@@ -173,8 +173,8 @@ img {
 	  color: white;
 	  line-height: 1.5;}
 
-.highlighter { background-color: #FFFFFF;
-	  color: #000000;
+.highlighter {;
+	  color: #C44F86;
 	  line-height: 1.5;}
 
 
